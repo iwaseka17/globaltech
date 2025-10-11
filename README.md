@@ -18,3 +18,6 @@ I inserted a pivot table in a new worksheet and then dragged country to rows and
 <img width="1919" height="1126" alt="country with largest count of workforce" src="https://github.com/user-attachments/assets/a4d801e4-ab0b-4c94-8485-4303c8887e2c" />
 Now I removed the country field from the rows section of pivot table.Then I right clicked on any city name in the pivot table and selected 'sort', then I selected 'more sort options' and then choose descending and select 'count of employeeID' in the criteria below descending option. The following screenshot depicts that Toronto, Paris and Berlin are the cities with the largest workforce.
 <img width="1919" height="1133" alt="city wiith largest count of workforce" src="https://github.com/user-attachments/assets/8fe639c1-f6f1-4b34-aa2e-84c7c27eca30" />
+# ans to ques 6
+I inserted a pivot table in a new worksheet and then dragged Department field to rows and Country field to columns. Then i dragged empID to values. The following image shows the summary table showing department distribution by country.
+<img width="1914" height="1134" alt="Screenshot 2025-10-12 030126" src="https://github.com/user-attachments/assets/4c22d878-7ecc-4c57-bc5d-441b7714608b" />
