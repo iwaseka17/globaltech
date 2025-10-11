@@ -8,6 +8,6 @@ I clicked on the dropdown menu of the column "years of experience" and then sele
 I inserted a pivot table in a new worksheet and dragged department to columns and years of experience to values. I changed years of experience as average years of experience by chooosing average from value field settings. I formatted the average years of experience column as "numbers" and then right clicked on a value on the column and sorted it from largest to smallest. now we can see the dept with the highest avg years of experience is operations
 <img width="1920" height="1200" alt="employees w highest experience" src="https://github.com/user-attachments/assets/5f020106-18cb-43a8-af39-f87b88e73ca9" />
 # ans to ques 3
-I select my data and insert a pivot table in the new worksheet. From pivot table fields, I dragged department to rows and salary to values. From the value field settings, I changed 'count of salary' to 'average of salary' and then go to number format to set it as currency. The average salary per department is shown below
-![Uploading avg salary dept wise.png…]()
+I select my data and insert a pivot table in the new worksheet. From pivot table fields, I dragged department to rows and salary to values. From the value field settings, I changed 'count of salary' to 'average of salary' and then go to number format to set it as currency. The average salary per department is shown below.
+<img width="1919" height="1134" alt="avg salary dept wise" src="https://github.com/user-attachments/assets/c27eba0b-ad3a-4239-9b39-1fbe82f7f569" />
 
