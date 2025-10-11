@@ -13,4 +13,6 @@ I select my data and insert a pivot table in the new worksheet. From pivot table
 # ans to ques 4
 I calculated the average salary per department via the averageif function after inserting a new column beside salary column and naming it as 'AVG dept salary'.Then I inserted another column called salary class beside the newly created column in column H. In H2 I entered a formula to depict those employees as high class who have their salary higher than the avg dept salary of their respective dept. The image below shows the high class employees
 <img width="1919" height="1129" alt="high class employees" src="https://github.com/user-attachments/assets/dc81274d-35de-4b25-bd46-8a1c7c379608" />
-
+# ans to ques 5
+I inserted a pivot table in a new worksheet and then dragged country to rows and the dragged city to rows right after that. Then I dragged EmployeeID to values and it is set as count of employees. Then I right clicked on any country name in the pivot table and selected 'sort'. then I selected 'more sort options' and then choose descending and select 'count of employeeID' in the criteria below descending option. The following screenshot depicts that USA is the country with the largest workforce.
+<img width="1919" height="1126" alt="country with largest count of workforce" src="https://github.com/user-attachments/assets/a4d801e4-ab0b-4c94-8485-4303c8887e2c" />
