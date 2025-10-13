@@ -30,3 +30,5 @@ We need to figure out if employees with higher years of experince are earning be
 # ans to ques 9
 To show the top 5 earners across the company, I clicked on column F's filter dropdown button and then sorted by largest to smallest. For better visualization, I clicked on the filter button of salary column again and then selected "top 10" from number filters and then I changed 10 to 5 in the popup box that appears. Now the table only displays the top 5 earners. The following image shows the top 5 earners
 <img width="1917" height="1130" alt="top 5 earners" src="https://github.com/user-attachments/assets/ad1c5472-c674-4450-ba56-31366349284c" />
+# ans to ques 10
+
