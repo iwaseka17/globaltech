@@ -34,4 +34,7 @@ To show the top 5 earners across the company, I clicked on column F's filter dro
 To determine the department with the highest total salary, I clicked on any cell in the data sheet and clicked on pivottable from the insert menu and then selected for the pivot table to appear in the new worksheet. Then I mooved to the sheet with the pivot table and dragged the department field to rows section and salary field to values section. Since the value field setting already set up salary as sum of salary I don't need to change it but I changed the number format to currency and clicked ok. Lastly, I clicked on one of the cells in the column with sum of salary and then right clicked and selected 'sort' from the popup. I sorted it as largest to smallest.The following image shows that the IT department has the highest total salary. 
 <img width="1911" height="1136" alt="Screenshot 2025-10-14 020111" src="https://github.com/user-attachments/assets/041dbe61-bea7-4a32-bbae-a62870d5bb74" />
 # ans to ques 11
-In order to determine the job title with the easiest ways
+In order to determine the job title that is the most common in the company, I clicked on any cell of the data table and then chose pivot table from the insert tab and then selected for it to appear on a new worksheet. Then I dragged Job Title field to the rows section and dragged EmpID field to the values section. The EmpID is sorted as count of EmpID. Then I right clicked on a cell from the count of EmpID column and went to the sort option to sort as largest to smallest. The following image shows that Developer is the most common job title.
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/c9d8962b-7176-48d3-8213-7b90c9cf5b61" />
+
+
