@@ -36,5 +36,7 @@ To determine the department with the highest total salary, I clicked on any cell
 # ans to ques 11
 In order to determine the job title that is the most common in the company, I clicked on any cell of the data table and then chose pivot table from the insert tab and then selected for it to appear on a new worksheet. Then I dragged Job Title field to the rows section and dragged EmpID field to the values section. The EmpID is sorted as count of EmpID. Then I right clicked on a cell from the count of EmpID column and went to the sort option to sort as largest to smallest. The following image shows that Developer is the most common job title.
 <img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/c9d8962b-7176-48d3-8213-7b90c9cf5b61" />
+# Dashboard
+**[click here to view the excel dashboard file](https://docs.google.com/spreadsheets/d/1Qbn2ObOyLdi4xiLLsML_khaj7IIXxe6t/edit?usp=drive_link&ouid=111803238871095963184&rtpof=true&sd=true)**
 
 
